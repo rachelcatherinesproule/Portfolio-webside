@@ -1,4 +1,4 @@
-# Portfolio-webside
+# Portfolio-website
 IXD103 Interaction Design 
 ======================================
 
