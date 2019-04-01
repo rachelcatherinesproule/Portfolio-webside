@@ -1,0 +1,54 @@
+
+    
+body{font-family:"Exo 2";}
+   
+    
+#Top {padding: 50px;background-color: #FFE38C;}
+#Top ul{color: #ffffff}
+#Top a{color:#ffffff}
+    
+#Home {padding-left: 128px;padding-right: 128px; padding-top: 243px; padding-bottom: 233px; background-color: #FFE38C;}
+#Home h1{color:#F28100;text-align: center}
+#Home h2{text-align: center}
+#Home h3{font-weight: 300;text-align: center}
+
+    
+#About{padding-top:21px;padding-left: 34px;padding-right: 34px;padding-bottom: 40px; background-color:#14A6AC}
+#About h1{text-align: center}
+#About h3{color: #ffffff; font-weight: 300;text-align: center}
+    
+    
+#More {background-color: #1E7F97;padding-top: 21px;padding-left: 34px;padding-right: 34px;padding-bottom: 40px;}
+#More h1{text-align: center}
+
+    
+#Column {background-color: #1E7F97;padding-top: 40px;padding-left: 34px;padding-right: 34px;padding-bottom: 40px;display:grid;grid-template-columns: 33% 33% 33%;column-gap: 5px;}
+#Column p{color:#ffffff;}
+
+
+    
+#Work {background-color: #ffffff;padding-top: 40px;padding-bottom: 40px;padding-left: 34px; padding-right: 34px;}
+#Work h1{color:#1E7F97;text-align: center}
+    
+#Brand{background-color: #14A6AC;padding: 34px;}
+#Brand h3{color:#1E7F97;}
+#Brand p{color:#1E7F97;}
+#Brand ul{color:#1E7F97;}
+
+#App{background-color: #F8F8F8;padding: 34px;}
+#App h3{color:#1E7F97;}
+#App p{color:#1E7F97;}
+#App ul{color:#1E7F97;}
+    
+#Contact{background-color:#F28100;padding-top: 40px;padding-bottom: 100px;padding-left: 34px;padding-right: 34px;}
+#Contact ul{color: #ffffff;text-align: center;}
+#Contact a{color:#ffffff;text-align: center;}
+#Contact h1{text-align: center;}
+#Contact h3{text-align: center;}
+ 
+    
+h1{color:#Ffffff;font-size: 40px;font-weight:500;}
+h2{color:#1E7F97;font-size: 35px;font-weight: 500;}
+h3{color:#14A6AC;font-size: 20px;font-weight: 500;}
+p{font-weight: 300;}
+
