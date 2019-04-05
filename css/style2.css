@@ -2,29 +2,35 @@
     
 body{
     font-family:'Exo 2', sans-serif;
-    margin: 0;font-size:0;}
+    margin: 0;
+    font-size:0;
+    background-color: #FBC10B}
 
-
-#Top{background-color: #FBC10B;
-    display:grid;
-    grid-template-columns: 65% 35%;font-size:0;padding-top:10px;padding-bottom: 10px;}
-
+#Top{padding: 0px 34px 0px 34px;}
 
 #Top li{
-    list-style: none;
-    display: inline-block;float: left;display: block;width:inherit;overflow: hidden;}
+    float: left;}
 
 #Top a{
     color:#ffffff;
     text-decoration: none;
     float: left;
-    color: #ffffff;
-    padding-top: 10px;padding-left:30px;width:100%;
-    font-size: 30px;}
+    padding:15px 34px 5px 34px;
+    width:100%;
+    font-size: 30px; 
+    font-weight:300;}
 
+#Top ul{list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#FBC10B;}
 
 #Top a:hover{
     color: #F28100;}
+
+#Top li img{
+    padding: 18px 0px 18px 0px;}
 
 #Home{font-size: 0;}
 
@@ -72,7 +78,7 @@ body{
 #More h1{
     text-align: center}
 
-#wave2{font-size:0;}
+#wave2{font-size:0;background-color: white;}
 
 #wave2 img{
     width: 100%;
@@ -143,15 +149,13 @@ body{
 #brand2 a:link, a:visited {
     background-color: #F28100;
     color: ;
-    padding: 10px 20px;
+    padding: 10px 20px 10px 20px;
     text-align: center;
     text-decoration: none;font-size: 20px;
-    display: inline-block;
-}
+    display: inline-block;}
 
 #brand2 a:hover, a:active {
-    background-color: #F28100;color:#FFE38C;
-}
+    background-color: #F28100;color:#FFE38C;}
 
 
 #App{
@@ -164,51 +168,57 @@ body{
 
 
 #App p{
-    color:#1E7F97;text-align: left;font-weight: 200;}
+    color:#1E7F97;
+    text-align: left;
+    font-weight: 200;}
 
 
 #App ul{
     color:#1E7F97;
-    text-align: left;font-size: 18px;font-weight: 200;}
+    text-align: left;
+    font-size: 18px;
+    font-weight: 200;}
   
 
 #app1{
     display: grid;
-    grid-template-columns: 50% 50%;font-size:0;}
+    grid-template-columns: 50% 50%;
+    font-size:0;}
 
 #app1 img{width: 90%;}
 
 
 #app2{
     display: grid;
-    grid-template-columns: 50% 50%;font-size:0;}
+    grid-template-columns: 50% 50%;
+    font-size:0;}
 
 #app2 a:link, a:visited {
     background-color: #F28100;
     color: #ffffff;
-    padding: 10px 20px;
+    padding: 10px 20px 10px 20px;
     text-align: center;
     text-decoration: none;
     font-size: 20px;
-    display: inline-block;
-}
+    display: inline-block;}
 
 #app2 a:hover, a:active {
     background-color: #F28100;
-    color:#FFE38C;
-}
+    color:#FFE38C;}
 
 #wave3{font-size: 0;}
 
 #wave3 img{
     width: 100%;
-    height: 100%;font-size:0;}
+    height: 100%;
+    font-size:0;
+    background-color: white;}
 
 
 #Contact{
     background-color:#F28100;
     padding-top: 40px;
-    padding-bottom: 100px;
+    padding-bottom: 40px;
     padding-left: 34px;
     padding-right: 34px;
     font-size: 0;}
