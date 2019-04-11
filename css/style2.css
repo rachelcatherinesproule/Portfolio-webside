@@ -4,40 +4,33 @@ body{
     font-family:'Exo 2', sans-serif;
     margin: 0;
     font-size:0;
-    background-color: #FBC10B}
+    background-color:}
 
-#Top{padding: 0px 34px 0px 34px;}
+#Top{padding:0px 20px ;background-color: #F7A50E;}
 
-#Top li{
-    float: left;}
+#Top li a {display: inline-block;padding:12px 40px 12px 0px;width:100%;}
 
 #Top a{
     color:#ffffff;
     text-decoration: none;
-    float: left;
-    padding:15px 34px 5px 34px;
+    align-content: center;
     width:100%;
-    font-size: 30px; 
+    font-size: 25px; 
     font-weight:200;}
 
 #Top ul{list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:#FBC10B;}
+    background-color:#F7A50E;width:100%}
 
 #Top a:hover{
-    color: #F28100;}
+    color: #FFE38C;}
 
 #Top li img{
-    padding: 18px 0px 18px 0px;}
+    padding: 10px 0px;}
 
-#Home{font-size: 0;}
-
-#Home img{
-    width: 100%;
-    height: 100%; 
-    margin: 0;font-size: 0;}
+#Home{font-size: 0;height: 100%;width:100%;margin:0}
 
     
 #About{
@@ -96,7 +89,7 @@ body{
 
 #Column h3{
     text-align: center;
-    color: #ffffff;padding-right: 10%;padding-left: 5%}
+    color: #ffffff;padding-right: 20%;padding-left: 5%}
 
 #Column p{
     color:#ffffff;
@@ -104,8 +97,8 @@ body{
     font-weight: 200;padding-right: 10%;padding-left: 10%}
 
 #Column img{
-    width: 60%;
-    align-content: center;padding-left: 15%;padding-right: 10%;}
+    width: 50%;
+    align-content: center;padding-left: 20%;padding-right: 10%;}
 
 #Work {
     background-color: #ffffff;
@@ -151,13 +144,11 @@ body{
     color: ;
     padding: 10px 20px 10px 20px;
     text-align: center;
-    text-decoration: none;font-size: 20px;font-weight: 200;
+    text-decoration: none;font-size: 20px;font-weight: 300;
     display: inline-block;border-radius: 6px;}
 
 #brand2 a:hover, a:active {
     background-color: #F28100;color:#FFE38C;}
-
-#brand2
 
 
 #App{
@@ -187,7 +178,7 @@ body{
     grid-template-columns: 50% 50%;
     font-size:0;}
 
-#app1 img{width: 90%;}
+#app1 img{width:90%;}
 
 
 #app2{
@@ -201,7 +192,7 @@ body{
     padding: 10px 20px 10px 20px;
     text-align: center;
     text-decoration: none;
-    font-size: 20px;font-weight: 200;
+    font-size: 20px;font-weight: 300;
     display: inline-block;border-radius: 6px;}
 
 #app2 a:hover, a:active {
@@ -252,7 +243,7 @@ body{
 #Contact h3{
     text-align: center;
     color: #ffffff;
-    font-weight: 200;}
+    font-weight: 200;padding-left: 10px;}
 
 #Contact ul li {
     align-content: center;
@@ -262,7 +253,7 @@ body{
 #Contact a{
     color:#FFFFFF;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     align-content: center;}
 
 #Contact li{
@@ -273,22 +264,24 @@ body{
     background-color: white;
     border-radius: 6px;
     color: #f28100;
-    padding:7px 50px;}
+    padding:7px 30px;}
 
 
 #social a:hover, a:active {
     color:#FFE38C;
 }
 
+#duck{backcolor: }
+
 h1{
     color:#Ffffff;
-    font-size: 35px;;
+    font-size: 40px;;
     font-weight:500;}
 
 
 h2{
     color:#1E7F97;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 500;}
 
 
