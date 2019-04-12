@@ -6,7 +6,7 @@ body{
     font-size:0;
     background-color:}
 
-#Top{padding:0px 20px ;background-color: #F7A50E;}
+#Top{padding:0px 20px ;background-color: #FBC10B;position:static;}
 
 #Top li a {display: inline-block;padding:12px 40px 12px 0px;width:100%;}
 
@@ -22,10 +22,9 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:#F7A50E;width:100%}
+    background-color:#FBC10B;width:100%}
 
-#Top a:hover{
-    color: #FFE38C;}
+#Top a:hover{ text-decoration: underline;}
 
 #Top li img{
     padding: 10px 0px;}
@@ -111,7 +110,7 @@ body{
     text-align: center}
     
 #Brand{
-    background-color: #14A6AC;
+    background-color: #1E7F97;
     padding: 40px;font-size:0;}
 
 
@@ -130,7 +129,7 @@ body{
 
 #brand1{
     display: grid;
-    grid-template-columns: 50% 50%;font-size: 0;}
+    grid-template-columns: 55% 45%;font-size: 0;}
 
 #brand1 img{width: 90%;}
 
@@ -140,19 +139,20 @@ body{
     grid-template-columns: 50% 50% ;font-size:0; }
 
 #brand2 a:link, a:visited {
-    background-color: #F28100;
-    color: ;
+     background-color: #F28100;
+    color: #ffffff;
     padding: 10px 20px 10px 20px;
     text-align: center;
-    text-decoration: none;font-size: 20px;font-weight: 300;
+    text-decoration: none;
+    font-size: 20px;font-weight: 300;
     display: inline-block;border-radius: 6px;}
 
 #brand2 a:hover, a:active {
-    background-color: #F28100;color:#FFE38C;}
+    background-color: #F28100;color:#1E7F97;}
 
 
 #App{
-    background-color: #F8F8F8;
+    background-color: #FFFFFF;
     padding: 40px;font-size: 0;}
 
 
@@ -175,10 +175,10 @@ body{
 
 #app1{
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 55% 45%;
     font-size:0;}
 
-#app1 img{width:90%;}
+#app1 img{ width: 90%}
 
 
 #app2{
@@ -197,7 +197,7 @@ body{
 
 #app2 a:hover, a:active {
     background-color: #F28100;
-    color:#FFE38C;}
+    color:#1E7F97;}
 
 #wave3{font-size: 0;}
 
@@ -232,7 +232,7 @@ body{
     color:#ffffff;
     text-align: center;}
 
-#Contact a:hover{color:#FFE38C;}
+#Contact a:hover{color:#1E7F97;;}
 
 
 #Contact h1{
@@ -265,13 +265,6 @@ body{
     border-radius: 6px;
     color: #f28100;
     padding:7px 30px;}
-
-
-#social a:hover, a:active {
-    color:#FFE38C;
-}
-
-#duck{backcolor: }
 
 h1{
     color:#Ffffff;
