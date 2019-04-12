@@ -15,7 +15,7 @@ body{
     text-decoration: none;
     align-content: center;
     width:100%;
-    font-size: 25px; 
+    font-size: 20px; 
     font-weight:200;}
 
 #Top ul{list-style-type: none;
@@ -108,6 +108,58 @@ body{
 #Work h1{
     color:#1E7F97;
     text-align: center;padding-bottom: 20px;}
+
+#wall{
+    
+    padding: 40px;font-size: 0;}
+
+
+#wall h3{
+    color:#1E7F97;}
+
+
+#wall p{
+    color:#1E7F97;
+    text-align: left;
+    font-weight: 200;}
+
+
+#wall ul{
+    color:#1E7F97;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 200;}
+  
+#wall1{
+    display: grid;
+    grid-template-columns: 55% 45%;
+    font-size:0;
+   
+}
+
+#wall1 img{ width: 90%; padding-top: 30px;}
+
+
+#wall2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+   
+
+}
+
+#wall2 a:link, a:visited {
+    background-color: #F28100;
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;font-weight: 300;
+    display: inline-block;border-radius: 6px;}
+
+#wall2 a:hover, a:active {
+    background-color: #F28100;
+    color:#1E7F97;}
+
     
 #Brand{
     padding: 40px;font-size:0;}
@@ -130,7 +182,7 @@ body{
     display: grid;
     grid-template-columns: 55% 45%;font-size: 0;}
 
-#brand1 img{width: 90%;}
+#brand1 img{width: 90%;padding-top: 30px;}
 
 
 #brand2{
@@ -176,7 +228,7 @@ body{
     grid-template-columns: 55% 45%;
     font-size:0;}
 
-#app1 img{ width: 90%}
+#app1 img{ width: 90%; padding-top: 30px;}
 
 
 #app2{
@@ -194,54 +246,6 @@ body{
     display: inline-block;border-radius: 6px;}
 
 #app2 a:hover, a:active {
-    background-color: #F28100;
-    color:#1E7F97;}
-
-#wall{
-    
-    padding: 40px;font-size: 0;}
-
-
-#wall h3{
-    color:#1E7F97;}
-
-
-#wall p{
-    color:#1E7F97;
-    text-align: left;
-    font-weight: 200;}
-
-
-#wall ul{
-    color:#1E7F97;
-    text-align: left;
-    font-size: 18px;
-    font-weight: 200;}
-  
-
-#wall1{
-    display: grid;
-    grid-template-columns: 55% 45%;
-    font-size:0;}
-
-#wall1 img{ width: 90%;}
-
-
-#wall2{
-    display: grid;
-    grid-template-columns: 50% 50%;
-    font-size:0;}
-
-#wall2 a:link, a:visited {
-    background-color: #F28100;
-    color: #ffffff;
-    padding: 10px 20px 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 20px;font-weight: 300;
-    display: inline-block;border-radius: 6px;}
-
-#wall2 a:hover, a:active {
     background-color: #F28100;
     color:#1E7F97;}
 
